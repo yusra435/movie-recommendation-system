@@ -1,0 +1,15 @@
+# Dataset (see data/README.md for download instructions)
+data/*
+!data/README.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Notebooks / OS / editors
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.idea/
